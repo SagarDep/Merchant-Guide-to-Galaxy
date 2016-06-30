@@ -1,6 +1,14 @@
 # Merchant-Guide-to-Galaxy
 ### Merchant's guide to the galaxy thoughtworks solution in Java-Android
 
+###Android Project Screenshots
+
+![Alt text](https://github.com/hiteshsahu/Merchant-Guide-to-Galaxy/blob/master/Screenshots/splash.png "Splash")
+![Alt text](https://github.com/hiteshsahu/Merchant-Guide-to-Galaxy/blob/master/Screenshots/home_fragment.png "Home")
+![Alt text](https://github.com/hiteshsahu/Merchant-Guide-to-Galaxy/blob/master/Screenshots/home_fragment_andromeda.png "Galaxy")
+![Alt text](https://github.com/hiteshsahu/Merchant-Guide-to-Galaxy/blob/master/Screenshots/metal.png "Metal")
+![Alt text](https://github.com/hiteshsahu/Merchant-Guide-to-Galaxy/blob/master/Screenshots/GalaxySystemFragment.png "System")
+
 ### Thoughtworks interview question
 You decided to give up on earth after the latest financial collapse left 99.99% of the earth's population with 0.01% of the wealth. Luckily, with the scant sum of money that is left in your account, you are able to afford to rent a spaceship, leave earth, and fly all over the galaxy to sell common metals and dirt (which apparently is worth a lot).Buying and selling over the galaxy requires you to convert numbers and units, and you decided to write a program to help you.The numbers used for intergalactic transactions follows similar convention to the roman numerals and you have painstakingly collected the appropriate translation between them.Roman numerals are based on seven symbols.
 
