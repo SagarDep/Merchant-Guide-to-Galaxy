@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Merchant Guide</string>
+    <string name="splash_title">Merchant\'s Guide to the Galaxy</string>
+    <string name="milkyway">Milky Way</string>
+    <string name="andromeda">Andromeda</string>
+    <string name="unknown">Unknown Galaxy</string>
+    <string name="action_settings">Settings</string>
+    <string name="crash_toast_text">Oops Crashe Occurred</string>
+
+    <string-array name="MilkyWay">
+        <item>ONE</item>
+        <item>FIVE</item>
+        <item>TEN</item>
+        <item>FIFTY</item>
+        <item>HUNDRED</item>
+        <item>FIVE_HUNDRED</item>
+        <item>THOUSAND</item>
+    </string-array>
+    <string-array name="Andromeda">
+        <item>glob</item>
+        <item>prok</item>
+        <item>pish</item>
+        <item>tegj</item>
+        <item>zedi</item>
+        <item>seti</item>
+        <item>glax</item>
+    </string-array>
+    <string-array name="Default">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="array_metal_type">
+        <item>NONE</item>
+        <item>Iron</item>
+        <item>Silver</item>
+        <item>Gold</item>
+    </string-array>
+
+</resources>
